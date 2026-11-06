@@ -1,0 +1,13 @@
+{
+  "appId": "com.celebrationoflife.app",
+  "appName": "Celebration of Life",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": false
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
